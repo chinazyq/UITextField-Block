@@ -7,3 +7,4 @@ UITextField+Block
     } forControlEvents:UIControlEventEditingChanged];
 
 2、示例
+![image](https://github.com/chinazyq/UITextField-Block/blob/master/UITextFieldBlockDemo/演示.gif)
